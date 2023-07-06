@@ -1,4 +1,4 @@
-# POC-Mockinjay
+# POC-Mockingjay
 Implementation of the Process Injection described in the article "Process Mockingjay : Echoing RWX In Userland To Achieve Code Execution" 
 
 The particularity of this PE is to avoir EDR/AV hooking on typical WinAPI32 functions used for typical process injection.
