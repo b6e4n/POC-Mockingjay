@@ -7,3 +7,5 @@ Here, a DLL with already a RWX memory section is used to inject the shellcode.
 Source : https://www.securityjoes.com/post/process-mockingjay-echoing-rwx-in-userland-to-achieve-code-execution
 
 Thanks to the OnlyMalware Discord (cc ewby)
+
+Shellcode : Pop a calc.exe
